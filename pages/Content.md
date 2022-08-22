@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /content/test
+permalink: /content/test/
 description: ""
 ---
 
